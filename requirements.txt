@@ -1,0 +1,6 @@
+streamlit
+pillow
+python-dotenv
+agno
+google-genai
+tavily-python
